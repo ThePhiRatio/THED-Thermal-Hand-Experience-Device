@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.tempvrproject.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\User\\Documents\\THED\\Temp VR Project\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Temp VR Project [Testing]"
+        }
+      }
+    }
+  ]
+}
